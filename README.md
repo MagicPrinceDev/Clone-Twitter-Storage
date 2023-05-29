@@ -1,6 +1,7 @@
 <br />
 
-![](/.github/assets/presentation.png)
+
+<h2 align="center">Twitter Clone</h2>
 
 <p align="center">
   Twitter clone built in Next.js + TypeScript + Tailwind CSS using Cloud Firestore and Storage
@@ -45,7 +46,7 @@ Here are the steps to run the project locally.
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/ccrsxx/twitter-clone.git
+   git clone https://github.com/oleksandr-harvart/twitter-clone.git
    ```
 
 1. Install dependencies
